@@ -225,12 +225,12 @@ img {
 }
 .email-form .form-control .input {
   margin: 0;
-  padding: 1rem 3rem 0 1.5rem;
+  padding: 1rem 0;
   outline: 0;
   background-color: transparent;
   border: 0;
   color: #fff;
-  width: 70%;
+  width: 100%;
 }
 .email-form .submit {
   display: inline-block;
